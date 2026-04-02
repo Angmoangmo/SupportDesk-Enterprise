@@ -8,26 +8,26 @@
 An enterprise-grade, full-stack Helpdesk Support ticketing system built to streamline IT operations. Features role-based authentication, real-time agent-customer live messaging via WebSockets, and a robust administrative MongoDB aggregation dashboard.
 
 ## 📸 Application Screenshots
-*(Replace the files inside the `/screenshots` folder with your own images!)*
 
-<div align="center">
-  <img src="screenshots/home.png" width="48%" alt="Landing Page">
-  <img src="screenshots/dashboard.png" width="48%" alt="Executive Agent Dashboard Layout">
-</div>
-<br/>
-<div align="center">
-  <img src="screenshots/tickets.png" width="48%" alt="Global Support Ticket Queue">
-  <img src="screenshots/chat.png" width="48%" alt="Real-time WebSocket Chat Interface">
-</div>
-<br/>
-<div align="center">
-  <img src="screenshots/new-ticket.png" width="48%" alt="Create New Customer Ticket">
-  <img src="screenshots/email.png" width="48%" alt="Automated Nodemailer Ticket Alert">
-</div>
-<br/>
-<div align="center">
-  <img src="screenshots/register.png" width="48%" alt="Secure User Registration">
-</div>
+<p align="center">
+  <img src="screenshots/home.png" width="30%" alt="Landing Page" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  &nbsp;
+  <img src="screenshots/dashboard.png" width="30%" alt="Executive Agent Dashboard" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  &nbsp;
+  <img src="screenshots/tickets.png" width="30%" alt="Support Ticket Queue" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/new-ticket.png" width="30%" alt="Create New Customer Ticket" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  &nbsp;
+  <img src="screenshots/chat.png" width="30%" alt="Real-time WebSocket Chat" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  &nbsp;
+  <img src="screenshots/email.png" width="30%" alt="Automated Nodemailer Alert" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/register.png" width="30%" alt="Secure User Registration" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</p>
 
 ## ✨ Features
 - **Secure Authentication (JWT)**: Route protection and distinct User, Agent, and Admin methodologies.
