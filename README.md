@@ -7,6 +7,28 @@
 
 An enterprise-grade, full-stack Helpdesk Support ticketing system built to streamline IT operations. Features role-based authentication, real-time agent-customer live messaging via WebSockets, and a robust administrative MongoDB aggregation dashboard.
 
+## 📸 Application Screenshots
+*(Replace the files inside the `/screenshots` folder with your own images!)*
+
+<div align="center">
+  <img src="screenshots/home.png" width="48%" alt="Landing Page">
+  <img src="screenshots/dashboard.png" width="48%" alt="Executive Agent Dashboard Layout">
+</div>
+<br/>
+<div align="center">
+  <img src="screenshots/tickets.png" width="48%" alt="Global Support Ticket Queue">
+  <img src="screenshots/chat.png" width="48%" alt="Real-time WebSocket Chat Interface">
+</div>
+<br/>
+<div align="center">
+  <img src="screenshots/new-ticket.png" width="48%" alt="Create New Customer Ticket">
+  <img src="screenshots/email.png" width="48%" alt="Automated Nodemailer Ticket Alert">
+</div>
+<br/>
+<div align="center">
+  <img src="screenshots/register.png" width="48%" alt="Secure User Registration">
+</div>
+
 ## ✨ Features
 - **Secure Authentication (JWT)**: Route protection and distinct User, Agent, and Admin methodologies.
 - **Redux State Management**: Centralized application state tracking asynchronous API thunks resulting in a seamless, instant-loading UX.
